@@ -14,7 +14,7 @@
 <body>
     <?php include 'header.php';?>
     <div class="titre">
-        <h1>Bienvenue sur la page de test du chat sur mobile !</h1>
+        <h1>Bienvenue sur la page d'accueil de test du chat sur mobile !</h1>
     </div>
     <div class="container">
         <div class="jumbotron">
@@ -25,5 +25,6 @@
             <li>Appréhender la vitesse de communcation entre les appareils</li>
         </div> 
     </div>
+    <?php include 'footer.php';?>
 </body>
 </html>
