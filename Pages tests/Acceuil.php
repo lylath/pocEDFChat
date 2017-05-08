@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <?php include 'header.php';?>
     <div class="titre">
         <h1>Bienvenue sur la page de test du chat sur mobile !</h1>
     </div>
@@ -19,11 +20,10 @@
         <div class="jumbotron">
             <h1 style="text-align: center;">Le tchat sur mobile ET sur web ?</h1> 
             <br>
-            <p>Cette page va servir à la démonstration du tchat :</p> 
-            <li>Voir la communication mobile/web et faisable et facile</li>
+            <p>Ce site va servir à la démonstration du tchat :</p> 
+            <li>Voir que la communication mobile/web et faisable et facile</li>
             <li>Appréhender la vitesse de communcation entre les appareils</li>
         </div> 
     </div>
-
 </body>
 </html>
