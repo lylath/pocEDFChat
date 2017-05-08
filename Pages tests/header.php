@@ -18,7 +18,7 @@
       <li><a href="#">Page 3</a></li>
     </ul>
     <div>
-        <img style ="width: 4%; margin-top: 2px; position: absolute;
+        <img style ="width: 75px; margin-top: 2px; position: absolute;
     right: 10px;" src="http://www.pole-emplois.org/wp-content/uploads/2013/04/edf-logo1-1024x526.jpg">
             
     </div>
