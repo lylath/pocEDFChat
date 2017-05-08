@@ -12,9 +12,9 @@
       <a class="navbar-brand" href="#">POC tchat</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Accueil</a></li>
-      <li><a href="#">Page 1</a></li>
-      <li><a href="#">Page 2</a></li>
+      <li><a href="Acceuil.php">Accueil</a></li>
+      <li><a href="header.php">Le header</a></li>
+      <li><a href="footer.php">Le footer</a></li>
       <li><a href="#">Page 3</a></li>
     </ul>
   </div>

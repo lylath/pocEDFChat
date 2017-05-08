@@ -21,8 +21,9 @@
             <h1 style="text-align: center;">Le tchat sur mobile ET sur web ?</h1> 
             <br>
             <p>Ce site va servir à la démonstration du tchat :</p> 
-            <li>Voir que la communication mobile/web et faisable et facile</li>
-            <li>Appréhender la vitesse de communcation entre les appareils</li>
+            <li>Voir que la communication mobile/web et faisable et facile.</li>
+            <li>Appréhender la vitesse de communcation entre les appareils.</li>
+            <li>Vérifier la continuité du tchat, sur l'ensemble du site.</li>
         </div> 
     </div>
     <?php include 'footer.php';?>
