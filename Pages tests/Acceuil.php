@@ -14,7 +14,7 @@
 <body>
     <?php include 'header.php';?>
     <div class="titre">
-        <h1>Bienvenue sur la page d'accueil de test du chat sur mobile !</h1>
+        <p style="font-size: 70px;">Bienvenue sur la page d'accueil de test du chat sur mobile !</p>
     </div>
     <div class="container">
         <div class="jumbotron">
